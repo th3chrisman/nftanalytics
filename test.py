@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 
 import mysql.connector
 from mysql.connector.constants import ClientFlag
