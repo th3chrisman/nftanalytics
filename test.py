@@ -4,7 +4,7 @@ import mysql.connector
 from mysql.connector.constants import ClientFlag
 
 config = {
-    'user': 'root',
+    'user': 'cliquin',
     'password': '',
     'host': '35.193.3.52',
     'client_flags': [ClientFlag.SSL],
